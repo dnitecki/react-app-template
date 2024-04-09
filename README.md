@@ -1,4 +1,4 @@
-# Welcome to my personal React App Template!
+# Welcome to my personal React App Template
 
 ### `npm start`
 
