@@ -14,4 +14,4 @@ Your app is ready to be deployed!
 
 ### `Enjoy!`
 
-github: dnitecki
+github @dnitecki
