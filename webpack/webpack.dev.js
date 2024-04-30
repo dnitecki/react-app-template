@@ -7,6 +7,7 @@ module.exports = {
     hot: true,
     open: true,
     port: 8080,
+    historyApiFallback: true,
   },
   plugins: [
     // Define new env variables
