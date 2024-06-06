@@ -1,6 +1,6 @@
 {
-  "short_name": "One Stop Insurance",
-  "name": "One Stop Insurance",
+  "short_name": "React App Webpack Template",
+  "name": "React App Webpack Template",
   "start_url": ".",
   "display": "standalone"
 }
