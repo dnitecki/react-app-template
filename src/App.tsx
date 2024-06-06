@@ -1,3 +1,3 @@
 export default function App() {
-  return <div>React App Template</div>;
+  return <div>React App Webpack Template</div>;
 }
